@@ -1,0 +1,278 @@
+### MASTER AYURVEDIC OUTCOME MAPPING - V1
+# This file contains explicit mappings of symptoms and conditions to multi-sector outcomes (Diet, Herbs, Routine, Yoga).
+
+## SECTION: DIGESTIVE OUTCOMES (ANNAVAHA)
+
+# INPUT: Acidity, Heartburn, Burning in Stomach
+- DIET: Cooling foods; Coconut water, Cold milk, Pomegranate, Cucumber. Avoid: Chilies, Vinegar, Fermented foods.
+- HERBS: Avipattikar Churna (1 tsp with water), Amla juice (10ml twice daily), Shatavari Ghrita.
+- ROUTINE: Avoid lying down immediately after meals. Walk gently (100 steps) post-dinner.
+- YOGA: Sheetali Pranayama (Cooling breath), Moon Salutation (Chandra Namaskar), Vajrasana (post-meal).
+
+# INPUT: Constipation, Hard Stool, Bloating
+- DIET: High fiber; Papaya, Boiled vegetables, Warm soups, Ghee. Avoid: Dry snacks, Cold salads, Puffed rice.
+- HERBS: Triphala Churna (1 tsp with warm water at night), Haritaki, Castor Oil (mild).
+- ROUTINE: Maintain regular bowel habits; Drink warm water first thing in morning (Ushapana).
+- YOGA: Pawanmuktasana (Wind-relieving pose), Malasana (Squat), Apana Vayu Mudra.
+
+# INPUT: IBS, Frequent Motion, Mucus
+- DIET: Buttermilk (Takra) with roasted cumin; Pomegranate, Moong Dal Khichdi. Avoid: Raw sprouts, Milk, Alcohol.
+- HERBS: Bilva (Bael) fruit pulp, Kutajghan Vati, Ginger (Nagara).
+- ROUTINE: Focus on psychological stability; avoid fast-paced stressful activities.
+- YOGA: Vajrasana, Gentle deep abdominal breathing, Matsyasana.
+
+## SECTION: RESPIRATORY OUTCOMES (PRANAVAHA)
+
+# INPUT: Chronic Cold, Sinusitis, Sneezing
+- DIET: Warm, spicy foods; Ginger, Pepper, Cardamom. Avoid: Curd, Bananas, Cold water.
+- HERBS: Trikatu Churna, Sitopaladi Churna (with honey), Lakshmi Vilas Ras.
+- ROUTINE: Regular Steam Inhalation; Nasya with Anu Taila (2 drops in each nostril).
+- YOGA: Jalaneti (Kriya), Kapalabhati (Skull shining breath), Bhastrika.
+
+# INPUT: Asthma, Wheezing, Breathlessness
+- DIET: Light, warm meals; Garlic, Onion, Black pepper. Avoid: Heavy fats, Cold weather exposure.
+- HERBS: Vasasava, Kantakari Avaleha, Pushkarmool.
+- ROUTINE: Keep the chest warm; avoid sleeping in direct AC/fan flow.
+- YOGA: Bhujangasana (Cobra), Dhanurasana (Bow), Ujjayi Pranayama.
+
+## SECTION: SKIN & HAIR OUTCOMES (KUSHTHA/KHALITYA)
+
+# INPUT: Acne, Pimples, Oily Face
+- DIET: Pitta-pacifying; Bitter gourds, Leafy greens, Rose water. Avoid: Oily/Fried, Junk food, Excess salt.
+- HERBS: Neem capsules, Manjistha (for blood purification), Khadirarishta.
+- ROUTINE: Wash face with Neem water; avoid excessive sun exposure.
+- YOGA: Sarvangasana (Shoulder stand), Halasana (Plow), Sheetali Pranayama.
+
+# INPUT: Eczema, Psoriasis, Itching
+- DIET: Detoxifying; Cucumber, Watermelon, Moong soup. Avoid: Seafood, Egg, Sesame, Salt.
+- HERBS: Neem oil (External), Khadirarishta, Gandhaka Rasayana.
+- ROUTINE: Keep skin moisturized with pure Coconut oil. Avoid harsh soaps.
+- YOGA: Surya Namaskar (gentle), Sheetkari Pranayama, Meditation for stress.
+
+# INPUT: Hair Fall, Dandruff, Thinning
+- DIET: Protein-rich (Ayurvedic); Lentils, Sesame seeds, Amla. Avoid: Sour/Spicy foods that increase Pitta.
+- HERBS: Bhringraj (Oil and Tablets), Brahmi, Hibiscus powder.
+- ROUTINE: Scalp massage (Abhyanga); Shiro-Lepa (Hair mask with Amla/Curd).
+- YOGA: Adho Mukha Svanasana (Downward dog - for blood flow), Sarvangasana.
+
+## SECTION: MENTAL & SLEEP OUTCOMES (MANASA)
+
+# INPUT: Stress, Anxiety, Restlessness
+- DIET: Grounding; Milk with Cashews, Warm Ghee, Whole grains. Avoid: Caffeine, Excess Sugar, Spicy food.
+- HERBS: Ashwagandha, Shankhapushpi, Jatamansi.
+- ROUTINE: Abhyanga (Self-massage) with Sesame oil; Digital detox after 8 PM.
+- YOGA: Nadi Shodhana, Balasana (Child’s pose), Shavasana (Long duration).
+
+# INPUT: Insomnia, Sleeplessness, Bad Dreams
+- DIET: Soothing; Buffalo milk with Nutmeg, Almonds, Rice. Avoid: Stimulants in evening.
+- HERBS: Tagar (Indian Valerian), Ashwagandha, Brahmi Vati.
+- ROUTINE: Pada-Abhyanga (Foot massage with ghee/oil); Warm shower before bed.
+- YOGA: Yoga Nidra (Psychic sleep), Brahmari Pranayama, Viparita Karani.
+
+## SECTION: CHRONIC & JOINT OUTCOMES
+
+# INPUT: Joint Pain, Arthritis, Knee Stiffness
+- DIET: Anti-inflammatory; Warm water, Ginger tea, Soups with Fenugreek. Avoid: Cold food, Dry pulses, Curd at night.
+- HERBS: Yogaraj Guggulu, Shallaki, Rasnadi Kwath.
+- ROUTINE: Warm poultice (Potali) massage; avoid weight-bearing strain during flare-ups.
+- YOGA: Joint rotations (Pavanamuktasana Series 1), Tadasana, Cat-Cow stretch.
+
+# INPUT: Diabetes, High Sugar (Prameha)
+- DIET: Low Kapha; Barley (Yava), Roasted Chana, Karela juice. Avoid: Sweets, Root vegetables, Day-sleeping.
+- HERBS: Haridra (Turmeric) + Amla (Nisha-Amalaki), Mehari Churna, Vijaysar.
+- ROUTINE: Regular brisk walking (min 5km); active lifestyle.
+- YOGA: Mandukasana (Frog pose), Vakrasana, Paschimottanasana.
+
+## SECTION: OCCUPATION-BASED OUTCOMES
+
+# INPUT: IT / Desktop / Software / Student (Sedentary, Screen-time)
+- DIET: Light, easy-to-digest; Berries, Walnuts for brain health. Avoid: Heavy oily snacks while working.
+- HERBS: Brahmi (Memory/Stress), Shankhapushpi, Amla for eye health.
+- ROUTINE: Follow the 20-20-20 rule for eyes; Get up every 50 mins; Eye-wash with Triphala water.
+- YOGA: Neck & Shoulder rotations, Tadasana, Nadi Shodhana, Trataka (Candle Gazing).
+
+# INPUT: Manual Labor / Construction / Teacher (Standing, Physical Stress)
+- DIET: High energy; Grains, Legumes, Ghee, Milk. Avoid: Working on empty stomach.
+- HERBS: Ashwagandha for stamina, Bala (Sida cordifolia), Shatavari.
+- ROUTINE: Evening foot massage (Padabhyanga); Warm salt-water bath for muscle recovery.
+- YOGA: Surya Namaskar (slow), Vrikshasana (Tree pose), Shavasana.
+
+## SECTION: FITNESS & AGE OUTCOMES
+
+# INPUT: Low Fitness / Beginner / Recovering
+- DIET: Nourishing, easily absorbable; Rice Gruel (Peya), Steamed Moong.
+- HERBS: Chyawanprash, Giloy (Guduchi) for immunity.
+- ROUTINE: Start with 15 mins gentle walk; focus on deep breathing.
+- YOGA: Sukshma Vyayama (Joint movements), Cat-Cow stretch, Bhramari.
+
+# INPUT: High Fitness / Athlete / Bodybuilder (High Vata/Pitta)
+- DIET: Rejuvenative (Rasayana); Buffalo milk, Almonds, Dates, Ghee.
+- HERBS: Ashwagandha, Shatavari, Gokshura (for kidneys/stamina).
+- ROUTINE: Oil massage (Abhyanga) before workout; Adequate rest (Nidra).
+- YOGA: Surya Namaskar (dynamic), Warrior Poses, Kapalabhati (in moderation).
+
+# INPUT: Children / Pediatric (Kshira-Annada)
+- DIET: Growth-focused; Milk, Ghee, Honey (after 1 yr), Ragi. Avoid: Cold drinks, excess sugar.
+- HERBS: Arvindasava, Brahmi Ghrita (for memory).
+- ROUTINE: Regular oil massage to strengthen bones.
+- YOGA: Playful poses like Simhasana (Lion pose), Balasana, Tree pose.
+
+## SECTION: SEASON-BASED OUTCOMES (RITUCHARYA)
+
+# INPUT: Spring (Vasant)
+- DIET: Light and dry foods; barley, honey, roasted meats. Avoid: Heavy, sweet, and cold foods.
+- HERBS: Ginger, Black pepper, Pippali (Trikatu); Haritaki.
+- ROUTINE: Dry massage (Udvartana) using herbal powders, warm water baths, active exercise.
+- YOGA: Vigorous yoga, Sun Salutations (Surya Namaskar) to melt accumulated Kapha.
+
+# INPUT: Summer (Grishma)
+- DIET: Sweet, cooling, liquid-rich foods; milk, ghee, rice, coconut water. Avoid: Spicy, sour, salty, hot foods.
+- HERBS: Amla, Shatavari, Brahmi, Coriander.
+- ROUTINE: Day sleep is allowed; avoid excessive exercise, stay in cool places.
+- YOGA: Sheetali Pranayama, moon salutations, gentle stretching.
+
+# INPUT: Monsoon (Varsha)
+- DIET: Easy to digest, warm foods; old grains, soups with ginger/garlic. Avoid: Raw foods, leafy greens, excess liquid.
+- HERBS: Ginger, Tulsi, Haritaki, Triphala.
+- ROUTINE: Keep surroundings dry, boil drinking water, oil massage.
+- YOGA: Gentle twists, Pawanmuktasana, Kapalabhati (mild).
+
+# INPUT: Autumn (Sharad)
+- DIET: Sweet, bitter, and astringent foods; rice, green gram, amla. Avoid: Hot, spicy, oily, and heavy foods.
+- HERBS: Aloe vera, Neem, Manjistha to purify blood.
+- ROUTINE: Exposure to moonlight, swimming, moderate exercise.
+- YOGA: Forward folds, Bhujangasana, Nadi Shodhana.
+
+# INPUT: Pre-Winter (Hemant) & Winter (Shishir)
+- DIET: Heavy, nourishing, sweet, sour, salty foods; milk products, nuts, root vegetables. Avoid: Cold, light, dry foods.
+- HERBS: Ashwagandha, Chyawanprash, Ginger.
+- ROUTINE: Thorough oil massage (Abhyanga) daily, warm clothes, sunbathing.
+- YOGA: Intense physical exercise, heated flows, deep breathing.
+
+## SECTION: DIET TYPE OUTCOMES
+
+# INPUT: Vegetarian
+- DIET: Ensure adequate protein through Mung dal, Paneer, nuts, seeds.
+- HERBS: Ashwagandha for stamina, Triphala for digestion.
+- ROUTINE: Include Ghee daily for joint lubrication.
+- YOGA: Balanced routines like Hatha Yoga.
+
+# INPUT: Vegan
+- DIET: Focus on almond milk, coconut milk, beans, lentils, quinoa.
+- HERBS: Moringa powder for nutrients, Shatavari for nourishment.
+- ROUTINE: Sesame oil massage to combat dryness (Vata).
+- YOGA: Grounding poses like Vrksasana (Tree pose).
+
+# INPUT: Omnivore
+- DIET: Balance heavy meats with digestive spices (cumin, ginger, garlic).
+- HERBS: Trikatu to aid heavy digestion, Triphala for cleansing.
+- ROUTINE: Fasting on warm water one day a week (Langhana) if feeling heavy.
+- YOGA: Dynamic flows to boost metabolism.
+
+# INPUT: Pescatarian
+- DIET: Fish provides good fats; balance fish (heating) with cooling herbs.
+- HERBS: Amla, Coriander, Fennel.
+- ROUTINE: Avoid fish with milk/dairy (Viruddha Ahara).
+- YOGA: Vinyasa flow, deep twists.
+
+## SECTION: DIGESTION QUALITY OUTCOMES
+
+# INPUT: Irregular/Gas (Vata)
+- DIET: Warm, soupy, moist meals with healthy fats (ghee/oil).
+- HERBS: Ajwain, Hing (Asafoetida), Ginger, Fennel.
+- ROUTINE: Eat at strictly regular times; do not rush meals.
+- YOGA: Vajrasana after meals, Pavanamuktasana.
+
+# INPUT: Sharp/Acidity (Pitta)
+- DIET: Cooling, mildly spiced meals; milk, rice, sweet fruits.
+- HERBS: Avipattikar Churna, Licorice (Yashtimadhu), Fennel.
+- ROUTINE: Don't skip meals, avoid eating when angry.
+- YOGA: Sheetali Pranayama, Seated folds.
+
+# INPUT: Sluggish/Heavy (Kapha)
+- DIET: Light, warm, well-spiced meals; dry roasting or baking.
+- HERBS: Trikatu (Ginger, Black Pepper, Long Pepper).
+- ROUTINE: Eat only when genuinely hungry; skip breakfast if not hungry.
+- YOGA: Kapalabhati before meals, dynamic twisting.
+
+## SECTION: SLEEP QUALITY OUTCOMES
+
+# INPUT: Light, easily disturbed
+- DIET: Warm milk with nutmeg and ghee before bed.
+- HERBS: Jatamansi, Tagara, Ashwagandha.
+- ROUTINE: Foot massage (Padabhyanga) with sesame oil before sleep.
+- YOGA: Yoga Nidra, Alternate Nostril Breathing.
+
+# INPUT: Deep and long
+- DIET: Avoid heavy dinners; eat lighter soups.
+- HERBS: Ginger tea in the morning to shake off grogginess.
+- ROUTINE: Wake up before sunrise (Brahma Muhurta), active morning routine.
+- YOGA: High energy Surya Namaskar, Kapalabhati.
+
+# INPUT: Trouble falling asleep
+- DIET: Complex carbs for dinner (oats, sweet potato), avoid late-night caffeine.
+- HERBS: Brahmi Vati, Chamomile.
+- ROUTINE: No screens 2 hours before bed; read a calming book.
+- YOGA: Savasana (Corpse pose), Brahmari Pranayama.
+
+## SECTION: WOMEN'S HEALTH (STREE ROGA)
+
+# INPUT: Menstrual Cramps, Dysmenorrhea, Pelvic Pain (Vata)
+- DIET: Warm, grounding foods; Sesame seeds, Jaggery, Cumin water. Avoid: Cold drinks, dry snacks, raw salads.
+- HERBS: Shatavari, Ashoka, Dashamoola Kashayam, Aloe Vera (Kumari).
+- ROUTINE: Abhyanga (warm oil massage) on the lower back and abdomen; avoid strenuous exercise during menstruation.
+- YOGA: Baddha Konasana (Butterfly pose), Balasana (Child's pose), Supta Baddha Konasana.
+
+# INPUT: PCOS, Irregular Periods, Weight Gain (Kapha-Vata)
+- DIET: Low glycemic index; Bitter gourds, Barley, Millet, Cinnamon, Fenugreek. Avoid: Dairy, fried foods, refined sugar.
+- HERBS: Kanchanar Guggulu, Shilajit, Turmeric, Pushyanug Churna.
+- ROUTINE: Daily vigorous exercise to clear channels (Srotas); maintain a strict sleep-wake cycle.
+- YOGA: Dhanurasana (Bow pose), Surya Namaskar, Kapalabhati Pranayama.
+
+# INPUT: Menopause, Hot Flashes, Mood Swings, Night Sweats (Pitta)
+- DIET: Cooling, hydrating foods; Coconut water, Cucumber, Rose petal jam (Gulkand). Avoid: Spicy, fermented foods, caffeine.
+- HERBS: Shatavari, Brahmi, Ashoka, Guduchi.
+- ROUTINE: Avoid midday sun; practice Moon Salutation (Chandra Namaskar) in the evening.
+- YOGA: Sheetali Pranayama (Cooling breath), Savasana, gentle walking.
+
+## SECTION: COGNITIVE & MENTAL HEALTH (MANASA ROGA)
+
+# INPUT: Brain Fog, Poor Memory, ADHD Symptoms (Vata-Kapha)
+- DIET: Omega-rich foods; Walnuts, Ghee, Almonds soaked overnight, Ashwagandha milk. Avoid: Heavy processed foods.
+- HERBS: Brahmi (Bacopa), Mandukaparni (Gotu Kola), Shankhapushpi.
+- ROUTINE: Daily Nasya (2 drops warm ghee in nostrils); strictly avoid overstimulation from screens.
+- YOGA: Trataka (Candle gazing for focus), Nadi Shodhana (Alternate Nostril Breathing).
+
+# INPUT: Mild Depression, Lethargy, Lack of Motivation (Kapha)
+- DIET: Light, warm, well-spiced foods; Ginger, Black Pepper, Tulsi tea, Honey. Avoid: Heavy dairy, cold foods, excess sweets.
+- HERBS: Jyotishmati, Ashwagandha, Vacha.
+- ROUTINE: Wake up before 6 AM (Brahma Muhurta); dry brushing (Garshana) or vigorous oil massage.
+- YOGA: Surya Bhedana Pranayama (Right nostril breathing), Ustrasana (Camel pose), backbends.
+
+## SECTION: EYE & EAR CARE (SHALAKYA TANTRA)
+
+# INPUT: Dry Eyes, Computer Vision Syndrome, Eye Strain (Pitta-Vata)
+- DIET: Vitamin A rich; Carrots, Amla, Green leafy vegetables, pure cow's Ghee. Avoid: Excessive sour, salty, and spicy foods.
+- HERBS: Triphala (Eye wash), Saptamrit Lauh, Amla capsules.
+- ROUTINE: Splash cold water on eyes in the morning; practice palming; Netra Tarpana (Ghee eye bath).
+- YOGA: Eye rotations (up/down, side/side, circular), Trataka (focus on a point).
+
+# INPUT: Tinnitus, Ringing in Ears, Ear Dryness (Vata)
+- DIET: Vata-pacifying; Warm, unctuous foods, bone broths, root vegetables. Avoid: Fasting, dry/crunchy foods.
+- HERBS: Ashwagandha, Bala, Sarivadi Vati.
+- ROUTINE: Karnapurana (putting 2 drops of warm garlic/sesame oil in the ears); protect ears from cold winds.
+- YOGA: Bhramari Pranayama (Humming bee breath) is extremely beneficial.
+
+## SECTION: ADVANCED METABOLIC & SYSTEMIC OUTCOMES
+
+# INPUT: Thyroid Imbalance, Hypothyroidism, Sluggish Metabolism (Kapha)
+- DIET: Iodine-rich, metabolism-boosting; Coriander seeds boiled in water, whole grains. Avoid: Goitrogenic foods (cabbage/cauliflower) unless cooked.
+- HERBS: Kanchanar Guggulu, Punarnava, Ashwagandha.
+- ROUTINE: Ujjayi Pranayama (Ocean breath) specifically targets the throat region; active morning workouts.
+- YOGA: Sarvangasana (Shoulder stand), Matsyasana (Fish pose), Halasana (Plow pose).
+
+# INPUT: Extreme Emaciation, Underweight, Muscle Loss (Severe Vata)
+- DIET: Highly nourishing (Brumhana); Urad dal (Black gram), Ashwagandha cooked in milk, Ghee, Nuts, Bananas.
+- HERBS: Ashwagandha, Shatavari, Safed Musli, Bala.
+- ROUTINE: Regular Abhyanga with Ashwagandha/Bala Thailam; avoid excessive fasting or over-exercising.
+- YOGA: Grounding, static poses; Tadasana, Vrikshasana, long Savasana.

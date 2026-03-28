@@ -1,0 +1,27 @@
+# Python environment
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Offline ChromaDB vector database (will be regenerated automatically)
+ayur_offline_db/
+
+# Large Model Weights & Adapters
+*.bin
+*.pt
+*.safetensors
+*.ckpt
+ayurslm-lora/
+lora/
+unsloth/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Any environment variables/secrets
+.env
